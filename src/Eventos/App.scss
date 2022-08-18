@@ -1,0 +1,55 @@
+.page-eventos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40em;
+
+    h1{
+        font-style: normal;
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 135.52%;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+    select{
+        padding-left: .5em;
+        margin-bottom: 1em;
+        width: 436px;
+        height: 38px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 17px;
+        border: 1px solid #DFDFDF;
+        border-radius: 3px;
+        color: #CCCCCC;
+        margin-top: 16px;
+    }
+
+    .digite{
+        padding-left: .5em;
+        width: 423px;
+        height: 38px;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 17px;
+        border: 1px solid #DFDFDF;
+        border-radius: 3px;
+        color: #CCCCCC;
+    }
+    }
+
+    button{
+        border:none;
+        position: absolute;
+        width: 86px;
+        height: 32px;
+        color: #FFFFFF; 
+        background: #0084FF;
+        border-radius: 3px;
+        margin-top: 10px;
+    }
